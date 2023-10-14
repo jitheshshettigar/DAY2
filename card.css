@@ -1,0 +1,30 @@
+body{
+    background:url("HDfire.jpg") ;
+    background-size: cover;
+
+}
+img {
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 400px;
+}
+#card {
+    border: 5px double rebeccapurple;
+    width: 600px;
+    padding: 50px;
+    margin-top: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rosybrown;
+    
+}
+h3 {
+    text-align:center;
+    color: aquamarine(255,0,0);
+}
+p{
+    color: brown(199,134,158);
+    text-align:justify;
+}
